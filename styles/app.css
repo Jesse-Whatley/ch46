@@ -1,0 +1,22 @@
+/* Resetting margin for better layout control */
+html, body {
+    margin: 0;
+}
+
+/* Styling for the main content area */
+main {
+    display: flex;
+    height: calc(100vh - 37px); /* Adjusting height to fit viewport */
+}
+
+/* Styling for the task list section */
+#list {
+    background-color: #7FFFD4; /* Elegant aquamarine */
+    flex: 4; /* Taking up 3/6 of the available space */
+}
+
+/* Styling for the task input form section */
+#form {
+    background-color: darkorchid;
+    flex: 2; /* Taking up 3/6 of the available space */
+}

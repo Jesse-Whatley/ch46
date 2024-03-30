@@ -13,3 +13,20 @@
 
 // KISS = Keep It Simple Stupid
 
+// HTTP = hyper text transfer protocol (internet)
+
+// HTTPS = hyper text transfer protocol secure (internet)
+
+// Client side ===> HTTP Request ===> server
+
+// CRUD = create read update delete
+
+// HTTP Methods = get/ post/ put/ patch/ delete
+
+// Post ==> Create ==> Write
+
+// Get ==> Read ==> Retrive
+
+// Put & Patch ==> Update
+
+// Delete ==> Delete
