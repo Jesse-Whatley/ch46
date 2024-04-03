@@ -55,3 +55,10 @@
 // AJAX ==> Asyncronis JavaScript Xml ==> helps collect data that we need at that specific point (ex: scrolling social media)
 
 // XML ==> JSON
+
+//HTML text and Attributes (https://youtu.be/BHMBOUGO9vk)
+
+//intro to Css (https://youtu.be/FKVcH6oJ7pQ)
+//text with Css(https://www.canva.com/learn/typography-terms/; https://brandastic.com/blog/choosing-fonts-websites/; https://www.youtube.com/watch?v=c3xM4f6oxK4)
+
+//Status Code (https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
